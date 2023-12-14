@@ -8,6 +8,8 @@
 |Passe ton Hack|Tous|07/01/24|Oui|22/01/24 - 09/02/24|
 |Trophées NSI|NSI|?|Oui|08/01/2024|
 
+**📝 Pour s'inscrire à un concours : [Formulaire concours informatique 2024](https://forms.gle/qKmsdw9SC4Xsk9au9)**
+
 ## Concours Général des Lycées - NSI
 
 <img src="assets/cgl_2024.png" width="300">
