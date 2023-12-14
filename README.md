@@ -2,11 +2,17 @@
 
 |Nom|Public|Fin d'inscription|Par équipe|Dates du concours|
 |:---:|:---:|:---:|:---:|:---:|
-|CGL NSI|TNSI|15/12/23|Non|12/03/24 - 26/03/24|
+|Concours Général NSI|TNSI|15/12/23|Non|12/03/24 - 26/03/24|
+|Trophées NSI|TNSI|?|Oui|08/01/2024|
+|:---:|:---:|:---:|:---:|:---:|
 |Olympiades NSI|PNSI|06/03/24|Non|24/04/24|
+|Algoréa|PNSI|06/03/24|Seul ou en binôme|08/01/24 - 29/02/24|
+|:---:|:---:|:---:|:---:|:---:|
 |Prologin|Tous|14/01/24|Non|28/01/24 - 25/02/24|
 |Passe ton Hack|Tous|07/01/24|Oui|22/01/24 - 09/02/24|
-|Trophées NSI|NSI|?|Oui|08/01/2024|
+|:---:|:---:|:---:|:---:|:---:|
+|France cyber-sécurity Challenge|public de 14 à 25ans|?|Oui|21/04/2024|
+|Root me|public|?|Non|à l'année|
 
 **📝 Pour s'inscrire à un concours : [Formulaire concours informatique 2024](https://forms.gle/qKmsdw9SC4Xsk9au9)**
 
@@ -23,6 +29,33 @@ Le concours aura lieu entre le 12/03/24 et le 26/03/24. Il se tiendra dans un ly
 
 **‼️ Ce sont les enseignants qui doivent inscrire les élèves intéressés avant le 15/12/23.**
 
+## Trophées NSI
+
+<img src="assets/tropheesNSI.jpeg" width="400">
+
+Les Trophées NSI récompensent des projets informatiques, réalisés par les lycéennes et les lycéens de première et de terminale, pendant les heures consacrées à l’enseignement de la spécialité « numérique et sciences informatiques ».
+
+Ce concours s’adresse aux lycées publics d’enseignement général, aux lycées d'enseignement privé sous contrat avec le Ministère de l’Éducation nationale et aux lycées français à l’étranger rattachés au réseau de l’AEFE.
+
+### Comment se déroule le concours ?
+
+- Une organisation par territoire avec une finale nationale.
+- Les meilleurs projets de première et de terminale sont sélectionnés pour la finale nationale.
+- Toutes les équipes concourent pour les mêmes prix. 3 catégories de prix déclinées en sous-catégorie : Première ou Terminale.
+- 2 à 6 prix potentiels par territoire, selon le volume de projets et la qualité des dossiers.
+- Seuls 6 prix seront remis lors de la finale nationale.
+- Des lots prévus pour les lauréats nationaux (livre sur l'informatique, bons cadeaux, entrées pour des séances en Virtual Room, Raspberry Pi, etc).
+
+33 territoires seront représentés pour la nouvelle édition 2024 !
+
+> 30 territoires académiques (25 académies métropolitaines et 5 académies d'Outre-mer : Guadeloupe, Guyane, Martinique, Mayotte, Réunion).
+> 1 territoire regroupant les collectivités d’outre-mer (Wallis et Futuna, Polynésie française, Nouvelle Calédonie).
+> 2 territoires pour les lycées français à l’étranger rattachés au réseau de l’AEFE : la zone Amérique / Europe / Afrique et la zone Zone Océan Indien / Proche et Moyen Orient / Asie.
+
+**Les Trophées NSI 2024 seront lancés le 8 janvier 2024**
+
+▶︎ [Site web des Trophées NSI](https://trophees-nsi.fr/)
+
 ## Olympiades académiques NSI
 
 <img src="assets/academie-de-toulouse.svg" width="200">
@@ -37,6 +70,23 @@ Le concours aura lieu le 24/04/24 dans la matinée, dans un lycée de l'académi
 
 **‼️ Ce sont les enseignants qui doivent inscrire les élèves intéressés avant le 06/03/24.**
 
+## Algoréa
+
+Pour encourager les jeunes français et françaises à progresser en programmation et algorithmique, France-ioi organise un grand concours ouvert à tous : le concours Algoréa. Plus de 250 000 élèves ont participé à l'édition 2023.
+
+Après trois tours pour progresser au fil de l'année, en classe ou à la maison, les meilleurs de chaque niveau scolaire auront la possibilité de se qualifier pour la demi-finale, puis le stage final, et d'y remporter de nombreux lots.
+
+### Organisation
+
+Le concours est constitué de trois tours de qualification, puis d'une demi-finale et d'une finale.
+
+Premier tour : du 8 janvier au 29 février 2024.
+Deuxième tour : du 4 mars au 28 avril 2024.
+Troisième tour : du 29 avril au 26 mai 2024.
+Les trois tours de qualification, organisés tous les deux mois à partir de janvier, proposent chacun plusieurs catégories, correspondant à des niveaux croissants. Le but lors de chaque épreuve de 45 minutes est d'obtenir un score suffisant pour passer à la catégorie suivante, soit lors du même tour, soit pour le tour suivant. Les défis de programmation sont à résoudre en langages Blockly, Scratch ou Python.
+
+▶︎ [Site Algoréa](https://algorea.org/#/)
+▶︎ **Inscriptions après demande à votre enseignant**
 
 ## Prologin
 
@@ -75,29 +125,7 @@ Si tous les élèves de ces établissements peuvent participer, l’évènement 
 
 ▶︎ [Académie de Paris : Présentation du concours](https://www.ac-paris.fr/passe-ton-hack-d-abord-128309)
 
-## Trophées NSI
 
-<img src="assets/tropheesNSI.jpeg" width="400">
+## France cyber-sécurity Challenge
 
-Les Trophées NSI récompensent des projets informatiques, réalisés par les lycéennes et les lycéens de première et de terminale, pendant les heures consacrées à l’enseignement de la spécialité « numérique et sciences informatiques ».
-
-Ce concours s’adresse aux lycées publics d’enseignement général, aux lycées d'enseignement privé sous contrat avec le Ministère de l’Éducation nationale et aux lycées français à l’étranger rattachés au réseau de l’AEFE.
-
-### Comment se déroule le concours ?
-
-- Une organisation par territoire avec une finale nationale.
-- Les meilleurs projets de première et de terminale sont sélectionnés pour la finale nationale.
-- Toutes les équipes concourent pour les mêmes prix. 3 catégories de prix déclinées en sous-catégorie : Première ou Terminale.
-- 2 à 6 prix potentiels par territoire, selon le volume de projets et la qualité des dossiers.
-- Seuls 6 prix seront remis lors de la finale nationale.
-- Des lots prévus pour les lauréats nationaux (livre sur l'informatique, bons cadeaux, entrées pour des séances en Virtual Room, Raspberry Pi, etc).
-
-33 territoires seront représentés pour la nouvelle édition 2024 !
-
-> 30 territoires académiques (25 académies métropolitaines et 5 académies d'Outre-mer : Guadeloupe, Guyane, Martinique, Mayotte, Réunion).
-> 1 territoire regroupant les collectivités d’outre-mer (Wallis et Futuna, Polynésie française, Nouvelle Calédonie).
-> 2 territoires pour les lycées français à l’étranger rattachés au réseau de l’AEFE : la zone Amérique / Europe / Afrique et la zone Zone Océan Indien / Proche et Moyen Orient / Asie.
-
-**Les Trophées NSI 2024 seront lancés le 8 janvier 2024**
-
-▶︎ [Site web des Trophées NSI](https://trophees-nsi.fr/)
+▶︎ [Cyber gouv](https://cyber.gouv.fr/france-cybersecurity-challenge-2023)
