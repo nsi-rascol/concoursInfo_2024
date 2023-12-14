@@ -2,15 +2,16 @@
 
 |Nom|Public|Fin d'inscription|Par équipe|Dates du concours|
 |:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  |
 |Concours Général NSI|TNSI|15/12/23|Non|12/03/24 - 26/03/24|
 |Trophées NSI|TNSI|?|Oui|08/01/2024|
-|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  |
 |Olympiades NSI|PNSI|06/03/24|Non|24/04/24|
 |Algoréa|PNSI|06/03/24|Seul ou en binôme|08/01/24 - 29/02/24|
-|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  |
 |Prologin|Tous|14/01/24|Non|28/01/24 - 25/02/24|
 |Passe ton Hack|Tous|07/01/24|Oui|22/01/24 - 09/02/24|
-|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  |
 |France cyber-sécurity Challenge|public de 14 à 25ans|?|Oui|21/04/2024|
 |Root me|public|?|Non|à l'année|
 
@@ -128,4 +129,20 @@ Si tous les élèves de ces établissements peuvent participer, l’évènement 
 
 ## France cyber-sécurity Challenge
 
+Le FCSC repose sur un type compétition appelé « Capture the flag » (CTF) qui consiste à résoudre plusieurs épreuves pour gagner des points.
+
+Majoritairement élaborées par des experts de l’ANSSI, ces épreuves sont classiquement réparties en plusieurs catégories : Crypto, Reverse, Pwn, Web, Forensics, Hardware, etc… Une quarantaine de challenges variés, tant en difficulté qu’en compétences testées, sont proposés sur une plateforme en ligne
+
 ▶︎ [Cyber gouv](https://cyber.gouv.fr/france-cybersecurity-challenge-2023)
+
+## Root-me
+
+Plus de 500 challenges sont mis à votre disposition pour vous entrainer au hacking.
+Entrainez-vous sur des challenges de sécurité et de hacking. Forensic, cracking, web, cryptanalyse, réseau, etc. 
+
+Pour chaque challenge, vous avez la possibilité de :
+* consulter des ressources associées au sujet traité par le challenge ;
+* consulter les solutions / proposer une solution, une fois le challenge validé ;
+* demander de l’aide sur le forum ou sur notre salon IRC.
+
+▶︎ [Root-me](https://www.root-me.org/)
